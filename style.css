@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: #F2E3BD;
+}
+h1 {
+    color: #1F3A5F;
+    text-align: center;
+}
+p {
+    color: #333333;
+    font-size: 18px;
+    text-align: center;
+}
+h2 {
+    color: #2E2E2E;
+}
