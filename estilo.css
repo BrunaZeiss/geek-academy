@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+:root {
+    --cor0: #817f79ce;
+    --cor1: #26577dad;
+    --cor2: #d1d6d3;
+
+    --font-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neve', cursive;
+    --font-android: 'Android', cursive;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-padrao);
+    background-color: var(--cor0);
+    color: var(--cor5);
+}
+
+header {
+    background-color: var(--cor1);
+    padding: 10px 0;
+    text-align: center;
+}
+section {
+    padding: 50px;
+    text-align: center;
+    background-color: var(--cor3);
+}
